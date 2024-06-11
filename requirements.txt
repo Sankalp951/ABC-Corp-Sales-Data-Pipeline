@@ -1,2 +1,2 @@
-Flask
-google-cloud-storage
+functions-framework==3.*
+google-cloud-bigquery
